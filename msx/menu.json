@@ -246,20 +246,20 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Смотрим{col}{br}{col:yellow}=========={br}{col:msx-white}российская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК».",
-               "image": "https://tvru.github.io/msx/img/mytuner-pic.gif"
+               "image": "https://tvru.github.io/msx/img/mytuner-pic.jpg"
             }
          },
          "image": "https://tvru.github.io/msx/img/mytuner-logo.png",
          "action": "link:https://devices.mytuner.mobi/"
       },
       {
-         "title": "{col:#1ac9b8}Radio player de",
+         "title": "{col:#1ac9b8}Radio player",
          "titleFooter": "",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}Смотрим{col}{br}{col:yellow}=========={br}{col:msx-white}российская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК».",
+               "text": "{col:msx-white}Radioplayer{col}{br}{col:yellow}=========={br}{col:msx-white}Радиотехнологическая платформа, принадлежащая британским радиовещательным компаниям и эксплуатируемая по лицензии в некоторых других странах.",
                "image": "https://tvru.github.io/msx/img/radioplayer-pic.gif"
             }
          },
