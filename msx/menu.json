@@ -186,7 +186,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}VoKINO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
-               "image": "https://tvru.github.io/msx/img/vokino/capture.gif"
+               "image": "https://tvru.github.io/msx/img/vokino-pic.gif"
             }
          },
          "image": "https://tvru.github.io/msx/img/vokino-logo.png",
@@ -203,7 +203,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:yellow}=========={br}{col:msx-white}Аналог YouTUBE только Российский для просмотра видео",
-               "image": "https://tvru.github.io/msx/img/rutube/capture.jpg"
+               "image": "https://tvru.github.io/msx/img/rutube-pic.gif"
             }
          },
          "image": "https://tvru.github.io/msx/img/rutube-logo.png",
@@ -254,7 +254,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}KinoPUB {col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме. Нужна регистрация и подписка",
-               "image": "https://tvru.github.io/msx/kinopub/screen.png"
+               "image": "https://tvru.github.io/msx/img/kinipub-pic.gif"
             }
          },
          "image": "https://tvru.github.io/msx/img/kinipub-logo.png",
