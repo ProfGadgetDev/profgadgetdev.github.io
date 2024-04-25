@@ -265,48 +265,6 @@
          },
          "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
          "action": "link:https://tv.radioplayer.de/HiSense/"
-      },
-      {
-         "title": "{col:#1ac9b8}Speedtest",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "{col:msx-white}Speedtest{col}{br}{col:yellow}=========={br}{col:msx-white}Радиотехнологическая платформа, принадлежащая британским радиовещательным компаниям и эксплуатируемая по лицензии в некоторых других странах.",
-               "image": "https://tvru.github.io/msx/img/radioplayer-pic.gif"
-            }
-         },
-         "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
-         "action": "link:http://openspeedtest.com/Get-widget.php?Auto=3"
-      },
-      {
-         "title": "{col:#1ac9b8}ТВ каналы",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "{col:msx-white}ТВ каналы{col}{br}{col:yellow}=========={br}{col:msx-white}Радиотехнологическая платформа, принадлежащая британским радиовещательным компаниям и эксплуатируемая по лицензии в некоторых других странах.",
-               "image": "https://tvru.github.io/msx/img/radioplayer-pic.gif"
-            }
-         },
-         "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
-         "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
-      },
-      {
-         "title": "{col:#1ac9b8}Tutkino_msx",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "{col:msx-white}ТВ каналы{col}{br}{col:yellow}=========={br}{col:msx-white}Радиотехнологическая платформа, принадлежащая британским радиовещательным компаниям и эксплуатируемая по лицензии в некоторых других странах.",
-               "image": "https://tvru.github.io/msx/img/radioplayer-pic.gif"
-            }
-         },
-         "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
-         "action": "content:http://msx.tutkino.fun/msx/?ch=enter"
       }
    ]
 }
