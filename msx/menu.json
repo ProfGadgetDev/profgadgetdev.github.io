@@ -54,7 +54,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/lampa-logo.png",
-         "action": "link:http://lampa.mx"
+         "action": "link:http://lampa.mx",
+         "properties": {
+            "image:extension": "| {col:msx-white}LAMPA"
+         }
       },
       {
          "title": "{col:#1ac9b8}DRM-play",
@@ -63,12 +66,15 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}DRM-play{col}{br}{col:yellow}=========={br}{col:msx-white}MOD известного плеера Ott-Play с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. Не содержит nagware кода, модулей аналитики и других сюрпризов.{br}{col:yellow}Есть тестовый плейлист)) и содержит программу передач с архивом.",
+               "text": "{col:msx-white}DRM-play{col}{br}{col:yellow}=========={br}{col:msx-white}MOD известного плеера Ott-Play с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. НЕ содержит nagware кода, модулей аналитики и других сюрпризов.{br}{col:yellow}Есть тестовый плейлист)) и содержит программу передач с архивом.",
                "image": "https://tvru.github.io/msx/img/drm-pic.gif"
             }
          },
          "image": "https://tvru.github.io/msx/img/drm-logo.png",
-         "action": "link:http://drm-play.com"
+         "action": "link:http://drm-play.com",
+         "properties": {
+            "image:extension": "| {col:msx-white}DRM-play"
+         }
       },
       {
          "title": "{col:#1ac9b8}OTT-play FOSS",
@@ -82,7 +88,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/ottp-foss-logo.png",
-         "action": "link:http://ottp.eu.org/f/"
+         "action": "link:http://ottp.eu.org/f/",
+         "properties": {
+            "image:extension": "| {col:msx-white}OTT-play FOSS"
+         }
       },
       {
          "title": "{col:#1ac9b8}Prisma_TV",
@@ -96,7 +105,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/prisma-logo.png",
-         "action": "link:https://prisma.ws/"
+         "action": "link:https://prisma.ws/",
+         "properties": {
+            "image:extension": "| {col:msx-white}Prisma_TV"
+         }
       },
       {
          "title": "{col:#1ac9b8}Akter Black",
@@ -110,7 +122,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/akter-logo.png",
-         "action": "link:http://abmsx.tech/"
+         "action": "link:http://abmsx.tech/",
+         "properties": {
+            "image:extension": "| {col:msx-white}Akter Black"
+         }
       },
       {
          "title": "{col:#1ac9b8}ICVA",
@@ -124,7 +139,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/icva-logo.png",
-         "action": "link:http://icva.mx/"
+         "action": "link:http://icva.mx/",
+         "properties": {
+            "image:extension": "| {col:msx-white}ICVA"
+         }
       },
       {
          "title": "{col:#1ac9b8}ATODO",
@@ -138,7 +156,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/atodo-logo.png",
-         "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
+         "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}ATODO"
+         }
       },
 	  {
          "title": "{col:#1ac9b8}ATODO web",
@@ -152,7 +173,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/atodo-logo.png",
-         "action": "link:http://msx.atodo.fun/"
+         "action": "link:http://msx.atodo.fun/",
+         "properties": {
+            "image:extension": "| {col:msx-white}ATODO web"
+         }
       },
       {
          "title": "{col:#1ac9b8}VoKINO",
@@ -166,7 +190,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/vokino-logo.png",
-         "action": "link: http://web.vokino.tv/"
+         "action": "link: http://web.vokino.tv/",
+         "properties": {
+            "image:extension": "| {col:msx-white}VoKINO"
+         }
       },
       {
          "title": "{col:#1ac9b8}RUTUBE-WEB",
@@ -175,12 +202,15 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:yellow}=========={br}{col:msx-white}Аналог YouTUBE только Pоссийский для просмотра видео",
+               "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:yellow}=========={br}{col:msx-white}Аналог YouTUBE только Российский для просмотра видео",
                "image": "https://tvru.github.io/msx/img/rutube/capture.jpg"
             }
          },
          "image": "https://tvru.github.io/msx/img/rutube-logo.png",
-         "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
+         "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/",
+         "properties": {
+            "image:extension": "| {col:msx-white}RUTUBE-WEB"
+         }
       },
       {
          "title": "{col:#1ac9b8}YouTUBE",
@@ -194,7 +224,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/youtube-logo.png",
-         "action": "link:https://www.youtube.com/tv#/"
+         "action": "link:https://www.youtube.com/tv#/",
+         "properties": {
+            "image:extension": "| {col:msx-white}YouTUBE"
+         }
       },
       {
          "title": "{col:#1ac9b8}Moovies",
@@ -208,7 +241,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/moovies-logo.png",
-         "action": "menu:request:interaction:init@http://moovies.fun/index.html"
+         "action": "menu:request:interaction:init@http://moovies.fun/index.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Moovies"
+         }
       },
       {
          "title": "{col:#1ac9b8}KinoPUB",
@@ -222,7 +258,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/kinipub-logo.png",
-         "action": "link:http://kpms.cc/bootstrap.html"
+         "action": "link:http://kpms.cc/bootstrap.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}KinoPUB"
+         }
       },
       {
          "title": "{col:#1ac9b8}Смотрим",
@@ -236,7 +275,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/smotrim-logo.png",
-         "action": "link:https://tv.smotrim.ru/"
+         "action": "link:https://tv.smotrim.ru/",
+         "properties": {
+            "image:extension": "| {col:msx-white}Смотрим"
+         }
       },
       {
          "title": "{col:#1ac9b8}Mytuner mobi",
@@ -250,7 +292,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/mytuner-logo.png",
-         "action": "link:https://devices.mytuner.mobi/"
+         "action": "link:https://devices.mytuner.mobi/",
+         "properties": {
+            "image:extension": "| {col:msx-white}Mytuner mobi"
+         }
       },
       {
          "title": "{col:#1ac9b8}Radio player",
@@ -264,7 +309,10 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
-         "action": "link:https://tv.radioplayer.de/HiSense/"
+         "action": "link:https://tv.radioplayer.de/HiSense/",
+         "properties": {
+            "image:extension": "| {col:msx-white}Radio player"
+         }
       }
    ]
 }
