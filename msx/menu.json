@@ -9,6 +9,7 @@
    "logoSize": "large",
    "preload": "next",
    "dictionary": "https://tvru.github.io/msx/lang/ru.json",
+   "action": "[settings:validate_links:0|home]",
    "overlay": {
       "items": [
          {
@@ -54,10 +55,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/lampa-logo.png",
-         "action": "link:http://lampa.mx",
-         "properties": {
-            "image:extension": "| {col:msx-white}LAMPA"
-         }
+         "action": "link:http://lampa.mx"
       },
       {
          "title": "{col:#1ac9b8}DRM-play",
@@ -71,10 +69,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/drm-logo.png",
-         "action": "link:http://drm-play.com",
-         "properties": {
-            "image:extension": "| {col:msx-white}DRM-play"
-         }
+         "action": "link:http://drm-play.com"
       },
       {
          "title": "{col:#1ac9b8}OTT-play FOSS",
@@ -88,10 +83,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/ottp-foss-logo.png",
-         "action": "link:http://ottp.eu.org/f/",
-         "properties": {
-            "image:extension": "| {col:msx-white}OTT-play FOSS"
-         }
+         "action": "link:http://ottp.eu.org/f/"
       },
       {
          "title": "{col:#1ac9b8}Prisma_TV",
@@ -105,10 +97,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/prisma-logo.png",
-         "action": "link:https://prisma.ws/",
-         "properties": {
-            "image:extension": "| {col:msx-white}Prisma_TV"
-         }
+         "action": "link:https://prisma.ws/"
       },
       {
          "title": "{col:#1ac9b8}Akter Black",
@@ -122,10 +111,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/akter-logo.png",
-         "action": "link:http://abmsx.tech/",
-         "properties": {
-            "image:extension": "| {col:msx-white}Akter Black"
-         }
+         "action": "link:http://abmsx.tech/"
       },
       {
          "title": "{col:#1ac9b8}ICVA",
@@ -139,10 +125,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/icva-logo.png",
-         "action": "link:http://icva.mx/",
-         "properties": {
-            "image:extension": "| {col:msx-white}ICVA"
-         }
+         "action": "link:http://icva.mx/"
       },
       {
          "title": "{col:#1ac9b8}ATODO",
@@ -156,10 +139,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/atodo-logo.png",
-         "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
-         "properties": {
-            "image:extension": "| {col:msx-white}ATODO"
-         }
+         "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
       },
 	  {
          "title": "{col:#1ac9b8}ATODO web",
