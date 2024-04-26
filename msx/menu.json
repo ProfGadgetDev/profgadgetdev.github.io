@@ -153,10 +153,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/atodo-logo.png",
-         "action": "link:http://msx.atodo.fun/",
-         "properties": {
-            "image:extension": "| {col:msx-white}ATODO web"
-         }
+         "action": "link:http://msx.atodo.fun/"
       },
       {
          "title": "{col:#1ac9b8}VoKINO",
@@ -170,10 +167,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/vokino-logo.png",
-         "action": "link: http://web.vokino.tv/",
-         "properties": {
-            "image:extension": "| {col:msx-white}VoKINO"
-         }
+         "action": "link: http://web.vokino.tv/"
       },
       {
          "title": "{col:#1ac9b8}RUTUBE-WEB",
@@ -187,10 +181,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/rutube-logo.png",
-         "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/",
-         "properties": {
-            "image:extension": "| {col:msx-white}RUTUBE-WEB"
-         }
+         "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       },
       {
          "title": "{col:#1ac9b8}YouTUBE",
@@ -204,10 +195,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/youtube-logo.png",
-         "action": "link:https://www.youtube.com/tv#/",
-         "properties": {
-            "image:extension": "| {col:msx-white}YouTUBE"
-         }
+         "action": "link:https://www.youtube.com/tv#/"
       },
       {
          "title": "{col:#1ac9b8}Moovies",
@@ -221,10 +209,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/moovies-logo.png",
-         "action": "menu:request:interaction:init@http://moovies.fun/index.html",
-         "properties": {
-            "image:extension": "| {col:msx-white}Moovies"
-         }
+         "action": "menu:request:interaction:init@http://moovies.fun/index.html"
       },
       {
          "title": "{col:#1ac9b8}KinoPUB",
@@ -238,10 +223,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/kinipub-logo.png",
-         "action": "link:http://kpms.cc/bootstrap.html",
-         "properties": {
-            "image:extension": "| {col:msx-white}KinoPUB"
-         }
+         "action": "link:http://kpms.cc/bootstrap.html"
       },
       {
          "title": "{col:#1ac9b8}Смотрим",
@@ -255,10 +237,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/smotrim-logo.png",
-         "action": "link:https://tv.smotrim.ru/",
-         "properties": {
-            "image:extension": "| {col:msx-white}Смотрим"
-         }
+         "action": "link:https://tv.smotrim.ru/"
       },
       {
          "title": "{col:#1ac9b8}Mytuner mobi",
@@ -272,10 +251,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/mytuner-logo.png",
-         "action": "link:https://devices.mytuner.mobi/",
-         "properties": {
-            "image:extension": "| {col:msx-white}Mytuner mobi"
-         }
+         "action": "link:https://devices.mytuner.mobi/"
       },
       {
          "title": "{col:#1ac9b8}Radio player",
@@ -289,10 +265,7 @@
             }
          },
          "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
-         "action": "link:https://tv.radioplayer.de/HiSense/",
-         "properties": {
-            "image:extension": "| {col:msx-white}Radio player"
-         }
+         "action": "link:https://tv.radioplayer.de/HiSense/"
       }
    ]
 }
