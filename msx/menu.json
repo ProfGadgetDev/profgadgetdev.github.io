@@ -72,6 +72,20 @@
          "action": "link:http://drm-play.com"
       },
       {
+         "title": "{col:#1ac9b8}UN Censored",
+         "titleFooter": "Фильмы и сериалы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}UN Censored{col}{br}{col:yellow}=========={br}{col:msx-white}MOD Лампы. Приложения для ANDROID TV и GOOGLE TV для просмотра онлайн фильмов и сериалов.{br}{col:yellow}Отсутствует реклама!",
+               "image": "https://tvru.github.io/msx/img/un-censored-pic.gif"
+            }
+         },
+         "image": "https://tvru.github.io/msx/img/un-censored-logo.png",
+         "action": "link:http://bylampa.line.pm/"
+      },
+      {
          "title": "{col:#1ac9b8}OTT-play FOSS",
          "titleFooter": "IPTV player",
          "selection": {
@@ -141,7 +155,7 @@
          "image": "https://tvru.github.io/msx/img/atodo-logo.png",
          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
       },
-	  {
+      {
          "title": "{col:#1ac9b8}ATODO web",
          "titleFooter": "Фильмы и сериалы",
          "selection": {
