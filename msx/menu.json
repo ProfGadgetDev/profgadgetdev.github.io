@@ -3,7 +3,7 @@
    "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "headline": "TVRU",
-   "version": "2.0.2",
+   "version": "2.1.2",
    "background": "https://tvru.github.io/msx/img/coming-soon.jpg",
    "logo": "https://tvru.github.io/msx/img/tvmy-logo.png",
    "logoSize": "large",
@@ -121,10 +121,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Lamp!she{col}{br}{col:yellow}=========={br}{col:msx-white}Отличный мод приложения. Приложение разработано для Android и Google TV.{br}{col:yellow}Приложение не предназначено для работы через MediaStation X и может работать некорректно. Для просмотра торрентов нужен TorrServe.",
-               "image": "https://tvru.github.io/msx/img/lamp!she-pic.gif"
+               "image": "https://tvru.github.io/msx/img/lampishe-pic.gif"
             }
          },
-         "image": "https://tvru.github.io/msx/img/lamp!she-logo.png",
+         "image": "https://tvru.github.io/msx/img/lampishe-logo.png",
          "action": "link:https://web.lampishe.cc/"
       },
       {
@@ -135,7 +135,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}ICVA{col}{br}{col:yellow}=========={br}{col:msx-white}Отличный IPTV player от разработчиков LAMPA, в котором Вы найдете возможность просмотра своих плейлистов.",
-               "image": "https://tvru.github.io/msx/img/icva-pic.gif"
+               "image": "https://tvru.github.io/msx/img/icva-logo.png"
             }
          },
          "image": "https://tvru.github.io/msx/img/icva-logo.png",
@@ -205,7 +205,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}YouTUBE{col}{br}{col:yellow}=========={br}{col:msx-white}Видеохостинг, предоставляющий пользователям услуги хранения, доставки и показа видео.",
-               "image": "https://tvru.github.io/msx//youtube/capture.jpg"
+               "image": "https://tvru.github.io/msx/img/youtube-logo.png"
             }
          },
          "image": "https://tvru.github.io/msx/img/youtube-logo.png",
@@ -261,7 +261,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}myTuner{col}{br}{col:yellow}=========={br}{col:msx-white}бесплатные интернет-радио и подкасты",
-               "image": "https://tvru.github.io/msx/img/mytuner-pic.jpg"
+               "image": "https://tvru.github.io/msx/img/mytuner-logo.png"
             }
          },
          "image": "https://tvru.github.io/msx/img/mytuner-logo.png",
