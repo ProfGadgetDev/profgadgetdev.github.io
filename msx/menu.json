@@ -114,18 +114,18 @@
          "action": "link:https://prisma.ws/"
       },
       {
-         "title": "{col:#1ac9b8}Akter Black",
+         "title": "{col:#1ac9b8}Lamp!she",
          "titleFooter": "Фильмы и сериалы",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}Akter Black{col}{br}{col:yellow}=========={br}{col:msx-white}Отличный мод Лампа. Содержит всё необходимое для просмотра фильмов и сериалов!!!{br}{col:yellow}На некоторых устройствах работает проблемно!!!",
-               "image": "https://tvru.github.io/msx/img/akter-pic.gif"
+               "text": "{col:msx-white}Lamp!she{col}{br}{col:yellow}=========={br}{col:msx-white}Отличный мод приложения. Приложение разработано для Android и Google TV.{br}{col:yellow}Приложение не предназначено для работы через MediaStation X и может работать некорректно. Для просмотра торрентов нужен TorrServe.",
+               "image": "https://tvru.github.io/msx/img/lamp!she-pic.gif"
             }
          },
-         "image": "https://tvru.github.io/msx/img/akter-logo.png",
-         "action": "link:http://abmsx.tech/"
+         "image": "https://tvru.github.io/msx/img/lamp!she-logo.png",
+         "action": "link:https://web.lampishe.cc/"
       },
       {
          "title": "{col:#1ac9b8}ICVA",
