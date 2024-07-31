@@ -78,7 +78,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}UN Censored{col}{br}{col:yellow}=========={br}{col:msx-white}MOD Лампы. Приложения для ANDROID TV и GOOGLE TV для просмотра онлайн фильмов и сериалов.{br}{col:yellow}Отсутствует реклама!",
+               "text": "{col:msx-white}UN Censored{col}{br}{col:yellow}=========={br}{col:msx-white}MOD Лампы. Приложения для ANDROID TV и GOOGLE TV для просмотра онлайн фильмов и сериалов.{br}{col:yellow}Отсутствует реклама!{br}Работает без расширений, т.е. открыл и смотришь.",
                "image": "https://tvru.github.io/msx/img/un-censored-pic.gif"
             }
          },
@@ -106,7 +106,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}Prisma_TV{col}{br}{col:yellow}=========={br}{col:msx-white}Отличный аналог Лампы. Приложения для ANDROID TV и GOOGLE TV для просмотра онлайн фильмов и сериалов.{br}{col:yellow}Отсутствует реклама!",
+               "text": "{col:msx-white}Prisma_TV{col}{br}{col:yellow}=========={br}{col:msx-white}Отличный аналог Лампы. Приложения для ANDROID TV и GOOGLE TV для просмотра онлайн фильмов и сериалов.{br}{col:yellow}Отсутствует реклама!{br}Работает без расширений, т.е. открыл и смотришь.",
                "image": "https://tvru.github.io/msx/img/prisma-pic.gif"
             }
          },
@@ -148,7 +148,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}ATODO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
+               "text": "{col:msx-white}ATODO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов.{br}{col:yellow}Работает без расширений, т.е. открыл и смотришь.",
                "image": "https://tvru.github.io/msx/img/atodo-pic.gif"
             }
          },
@@ -162,7 +162,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}ATODO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
+               "text": "{col:msx-white}ATODO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов.",
                "image": "https://tvru.github.io/msx/img/atodo-pic.gif"
             }
          },
@@ -176,7 +176,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}VoKINO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
+               "text": "{col:msx-white}VoKINO{col}{br}{col:yellow}=========={br}{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов.{br}{col:yellow}Работает без расширений, т.е. открыл и смотришь.",
                "image": "https://tvru.github.io/msx/img/vokino-pic.gif"
             }
          },
@@ -190,7 +190,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:yellow}=========={br}{col:msx-white}Аналог YouTUBE только Российский для просмотра видео",
+               "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:yellow}=========={br}{col:msx-white}Аналог YouTUBE только Российский для просмотра видео.",
                "image": "https://tvru.github.io/msx/img/rutube-pic.gif"
             }
          },
@@ -204,7 +204,7 @@
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "{col:msx-white}Akter Black{col}{br}{col:yellow}=========={br}{col:msx-white}Мод Lampa для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
+               "text": "{col:msx-white}Akter Black{col}{br}{col:yellow}=========={br}{col:msx-white}Мод Lampa для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов.{br}{col:yellow}Работает без расширений, т.е. открыл и смотришь.",
                "image": "https://tvru.github.io/msx/img/akter-pic.gif"
             }
          },
