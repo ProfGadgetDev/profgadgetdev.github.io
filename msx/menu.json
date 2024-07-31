@@ -198,6 +198,34 @@
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       },
       {
+         "title": "{col:#1ac9b8}Akter Black",
+         "titleFooter": "Фильмы и сериалы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Akter Black{col}{br}{col:yellow}=========={br}{col:msx-white}Мод Lampa для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
+               "image": "https://tvru.github.io/msx/img/akter-pic.gif"
+            }
+         },
+         "image": "https://tvru.github.io/msx/img/akter-logo.png",
+         "action": "link: http://abvidaa.ru/"
+      },
+      {
+         "title": "{col:#1ac9b8}RUTUBE-WEB",
+         "titleFooter": "Видеоролики",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:yellow}=========={br}{col:msx-white}Аналог YouTUBE только Российский для просмотра видео",
+               "image": "https://tvru.github.io/msx/img/rutube-pic.gif"
+            }
+         },
+         "image": "https://tvru.github.io/msx/img/rutube-logo.png",
+         "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
+      },
+      {
          "title": "{col:#1ac9b8}YouTUBE",
          "titleFooter": "Видеоролики",
          "selection": {
