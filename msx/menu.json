@@ -44,6 +44,20 @@
    },
    "items": [
       {
+         "title": "{col:#1ac9b8}Vintera",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Vintera{col}",
+               "image": "https://tvru.github.io/msx/img/lampa-pic.gif"
+            }
+         },
+         "image": "https://tvru.github.io/msx/img/radioplayer-logo.png",
+         "action": "link:https://tv.radioplayer.de/HiSense/"
+      },
+      {
          "title": "{col:#1ac9b8}LAMPA",
          "titleFooter": "Фильмы и сериалы",
          "selection": {
